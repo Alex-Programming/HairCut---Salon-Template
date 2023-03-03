@@ -122,7 +122,7 @@
     /* Scrollbar */
     ::-webkit-scrollbar {
         background-color: var(--mainColor-1);
-        width: 8px;
+        width: 10px;
     }
     ::-webkit-scrollbar-thumb {
         background-color: rgb(235 22 22 / 80%);
